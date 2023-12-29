@@ -1,0 +1,9 @@
+# Build artifacts
+build/*
+
+# Cart building artifacts
+cart/binary.asm
+cart/cart.wasm.*
+
+# TIC-80 local directory (from testing carts)
+cart/.local/**
